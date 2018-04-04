@@ -30,13 +30,13 @@ blockquote {
   background-repeat: no-repeat;
   background-size: contain;
   padding-left: 10px;
-
 }
 #teamRoster > li:last-child ul{
   background-image: url(https://upload.wikimedia.org/wikipedia/commons/5/5c/Chicago_Bears_logo.svg);
   background-repeat: no-repeat;
   background-size: contain;
   padding-left: 10px;
+
 }
 img {
   display: none;
